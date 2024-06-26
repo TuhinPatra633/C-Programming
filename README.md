@@ -1,1 +1,1 @@
-# This repository contains C-program codes
+# This repository contains C-programming codes
